@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: 小白
- * @Date: 2020-10-04 10:43:52
- * @LastEditors: 小白
- * @LastEditTime: 2020-12-12 18:31:03
- */
 import '@/assets/css/common.scss';
 import React from 'react';
 import { render } from 'react-dom';

@@ -1,14 +1,5 @@
 import { ModelList } from '@/constant';
 import { RouteProps } from 'react-router-dom';
-
-/*
- * @Descripttion: 小白命名空间
- * @version: 0.0.1
- * @Author: 小白
- * @Date: 2020-10-10 20:50:06
- * @LastEditors: 小白
- * @LastEditTime: 2020-10-18 09:44:04
- */
 export namespace White {
 	// route
 	export interface RouteConfig extends RouteProps {
